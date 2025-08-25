@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     # packages
     "rest_framework",
     # apps
+    "products",
 ]
 
 MIDDLEWARE = [
